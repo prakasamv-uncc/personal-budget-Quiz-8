@@ -39,5 +39,12 @@ Generated site map to the applications
 # robots
 Added robots to disallow the user agent crawl.  
 
+Screenshots
+Get API - Budget ![image](https://github.com/prakasamv-uncc/personal-budget-Quiz-8/assets/156151853/bd314c2e-4b0a-439a-bea1-ee31427ecfb5)
+
+POST API - To update Budget ![image](https://github.com/prakasamv-uncc/personal-budget-Quiz-8/assets/156151853/b2719ef9-c9ca-4000-bc4c-bbd183c58720)
+
+
+
 
 
